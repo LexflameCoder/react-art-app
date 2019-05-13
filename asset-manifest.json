@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-art-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-art-app/static/js/main.70e42f07.chunk.js",
+    "main.js.map": "/react-art-app/static/js/main.70e42f07.chunk.js.map",
+    "runtime~main.js": "/react-art-app/static/js/runtime~main.de7c5b8b.js",
+    "runtime~main.js.map": "/react-art-app/static/js/runtime~main.de7c5b8b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react-art-app/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react-art-app/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react-art-app/index.html",
+    "precache-manifest.b05db7a657e28a8f67a0ce71083253b9.js": "/react-art-app/precache-manifest.b05db7a657e28a8f67a0ce71083253b9.js",
+    "service-worker.js": "/react-art-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-art-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-art-app/static/media/logo.5d5d9eef.svg"
+  }
+}
