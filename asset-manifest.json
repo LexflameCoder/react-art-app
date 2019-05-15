@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/react-art-app/static/css/main.6151f06a.chunk.css",
-    "main.js": "/react-art-app/static/js/main.06c61841.chunk.js",
-    "main.js.map": "/react-art-app/static/js/main.06c61841.chunk.js.map",
+    "main.css": "/react-art-app/static/css/main.334f8e15.chunk.css",
+    "main.js": "/react-art-app/static/js/main.653c34a9.chunk.js",
+    "main.js.map": "/react-art-app/static/js/main.653c34a9.chunk.js.map",
     "runtime~main.js": "/react-art-app/static/js/runtime~main.de7c5b8b.js",
     "runtime~main.js.map": "/react-art-app/static/js/runtime~main.de7c5b8b.js.map",
-    "static/js/2.d42b6f0b.chunk.js": "/react-art-app/static/js/2.d42b6f0b.chunk.js",
-    "static/js/2.d42b6f0b.chunk.js.map": "/react-art-app/static/js/2.d42b6f0b.chunk.js.map",
+    "static/js/2.58a3ef7a.chunk.js": "/react-art-app/static/js/2.58a3ef7a.chunk.js",
+    "static/js/2.58a3ef7a.chunk.js.map": "/react-art-app/static/js/2.58a3ef7a.chunk.js.map",
     "index.html": "/react-art-app/index.html",
-    "precache-manifest.ff969054f9b6250005607fc314a5a64d.js": "/react-art-app/precache-manifest.ff969054f9b6250005607fc314a5a64d.js",
+    "precache-manifest.36b86c6415ec6d8f9c74aa888cd666d4.js": "/react-art-app/precache-manifest.36b86c6415ec6d8f9c74aa888cd666d4.js",
     "service-worker.js": "/react-art-app/service-worker.js",
-    "static/css/main.6151f06a.chunk.css.map": "/react-art-app/static/css/main.6151f06a.chunk.css.map",
+    "static/css/main.334f8e15.chunk.css.map": "/react-art-app/static/css/main.334f8e15.chunk.css.map",
     "static/media/resolution.css": "/react-art-app/static/media/middle-lvl.d60da766.svg",
-    "static/media/logo.svg": "/react-art-app/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/react-art-app/static/media/logo.5d5d9eef.svg",
+    "static/media/size.css": "/react-art-app/static/media/square.46940502.svg"
   }
 }
