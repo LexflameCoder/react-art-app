@@ -1,0 +1,35 @@
+.color-wrapper {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  transition: all 0.3s;
+  border-radius: 5px;
+}
+
+.color-wrapper:hover{
+  box-shadow: inset 0 0 20px  rgba(0, 0, 0, .5);
+}
+
+.color-wrapper:active {
+  background-color: #499b15;
+}
+
+input {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  transition: all 0.3s;
+  border-radius: 5px;
+}
+
+input:active , input:focus {
+  outline: none;
+}
+
+
+

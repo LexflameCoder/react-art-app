@@ -1,0 +1,123 @@
+.size-wrapper {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  transition: all 0.3s;
+  border-radius: 5px;
+}
+
+.size-wrapper:hover{
+  box-shadow: inset 0 0 20px  rgba(0, 0, 0, .5);
+}
+
+.size-wrapper:active {
+  background-color: #499b15;
+}
+
+.size-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: url('../imgs/resize-square.png') no-repeat;
+  width: 24px;
+  height: 24px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.size-select{
+  position: absolute;
+  top: -60px;
+  left: 80px;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-radius: 5px;
+  background-color: #4A6460;
+  width: 169px;
+  height: 160px;
+}
+
+.hidden {
+  display: none;
+}
+
+.size-option {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 170px;
+  height: 50px;
+  
+  text-align: center;
+  line-height: 45px;
+
+  background-color: #152E37;
+  border: 1px solid #000;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-sizing: border-box;
+
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.9);
+
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.size-option:hover {
+  background-color: #164140;
+}
+
+.size-option:active {
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+.size-text{
+  height: 100%;
+  width: 120px;
+}
+
+.image-wrapper {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+  border-right: none;
+  background-color: #487A78;
+  box-sizing: border-box;
+  box-shadow: 5px 0 10px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.image{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.img-first {
+  width: 22px;
+  height: 22px;
+  background: url('../imgs/square.svg') no-repeat;
+}
+
+.img-second {
+  width: 18px;
+  height: 18px;
+  background: url('../imgs/square.svg') no-repeat;
+}
+
+.img-third {
+  width: 14px;
+  height: 14px;
+  background: url('../imgs/square.svg') no-repeat;
+}
+
